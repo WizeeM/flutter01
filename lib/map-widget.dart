@@ -6,7 +6,7 @@ class TUTMap extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return StaticMap(
-      googleApiKey: 'AIzaSyAWo4qGKrNs1a8t6rbEWca1r8E6nlcQN3c',
+      googleApiKey: '#',
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
       scaleToDevicePixelRatio: true,
